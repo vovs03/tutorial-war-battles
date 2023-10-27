@@ -1,5 +1,5 @@
 [project]
-title = Workshop shooter
+title = My first platformer
 version = 0.1
 
 [bootstrap]
@@ -10,7 +10,7 @@ game_binding = /input/game.input_bindingc
 
 [display]
 width = 720
-height = 720
+height = 480
 
 [physics]
 scale = 0.02
@@ -20,3 +20,4 @@ shared_state = 1
 
 [tilemap]
 max_tile_count = 10000
+
